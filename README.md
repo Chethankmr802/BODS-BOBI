@@ -51,6 +51,9 @@ Technology:-BOBI and BODS Tool
 
 •	Competent in monitoring resources for Business Objects servers, ensuring optimal performance.
 
+![image](https://github.com/Chethankmr802/BODS-BOBI/assets/123578114/13db500f-7b33-4528-8b34-1c913e7320e9)
+
+
 
 
 
